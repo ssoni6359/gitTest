@@ -1,0 +1,12 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "<Description of what the package does>\r ## Usage\r Install the package using npm :\r  npm install is-null-or-empty --save\r Then, require the package and use it:\r  [Comment: To check if this usage is proper]\r  var isNullOrEmpty = require('is-null-or-empty');\r  console.log(isNullOrEmpty(\"\")); // true\r  console.log(isNullOrEmpty(\"Hello World\")); // false",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
